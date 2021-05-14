@@ -1,0 +1,47 @@
+Enter grade: 
+87
+Would you like to enter more grades? Y/N: 
+y
+Enter grade: 
+90
+Would you like to enter more grades? Y/N: 
+y
+Enter grade: 
+80
+Would you like to enter more grades? Y/N: 
+y
+Enter grade: 
+100
+Would you like to enter more grades? Y/N: 
+y
+Enter grade: 
+95
+Would you like to enter more grades? Y/N: 
+y
+Enter grade: 
+70
+Would you like to enter more grades? Y/N: 
+y
+Enter grade: 
+65
+Would you like to enter more grades? Y/N: 
+y
+Enter grade: 
+100
+Would you like to enter more grades? Y/N: 
+y
+Enter grade: 
+72
+Would you like to enter more grades? Y/N: 
+y
+Enter grade: 
+56
+Would you like to enter more grades? Y/N: 
+n
+Highest score: 100
+Lowest score: 56
+Average score: 81.0
+Number of students that got A: 4
+Number of students that got B: 2
+Number of students that got C: 2
+Number of students that failed: 2
